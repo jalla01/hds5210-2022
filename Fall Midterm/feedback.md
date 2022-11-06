@@ -6,7 +6,9 @@
 
 _Details on the grading criteria for the midterm can be found on [Canvas](https://canvas.slu.edu/courses/28045/rubrics/23671)._
 
-Overall, nicely done.  There were a couple of minor errors in the code and a few note on good programming practices I've included below.
+Overall, nicely done.  There were a few notes on good programming practices I've included below.
+
+Unfortunately Step 4 was missing entirely. Was that on purpose or by mistake?
 
 
 
